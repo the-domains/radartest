@@ -2,14 +2,20 @@
     <channel>
         <title><![CDATA[radartest]]></title>
         <description><![CDATA[radartest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/radartest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:54:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 04:59:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/radartest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/radartest/dd20331f-9234-4f4e-8e56-3e4136c7d489/index.html</link>
+            <guid isPermaLink="false">dd20331f-9234-4f4e-8e56-3e4136c7d489</guid>
+            <pubDate>Fri, 04 Mar 2016 04:58:39 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/df0cf65b-a9fc-4ba2-bcda-6df12e414611.jpg">]]></description>
-            <link>undefinedb5ca7eff-2cc8-407b-a271-72863b6feb2b/index.html</link>
+            <link>https://thegrid.ai/radartest/b5ca7eff-2cc8-407b-a271-72863b6feb2b/index.html</link>
             <guid isPermaLink="false">b5ca7eff-2cc8-407b-a271-72863b6feb2b</guid>
             <pubDate>Fri, 04 Mar 2016 04:53:45 GMT</pubDate>
         </item>

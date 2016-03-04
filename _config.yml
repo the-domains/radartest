@@ -1,0 +1,28 @@
+name: radartest
+favicon: null
+layout_spectrum: 0.15924032451584935
+typography_spectrum: 0.7734748243819922
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6254741882439703
+  lightness: 0.48420274700038135
+  saturation: 0.812887717736885
+  rhythmicContrast: 0.9180920869112015
+purpose: []
